@@ -390,7 +390,7 @@ function Contact() {
                   discord
                 </div>
                 <div className="mt-1 font-display font-bold text-neon-magenta">
-                  tadeas#0001
+                  Tadeas2023#4947
                 </div>
               </a>
               <a
@@ -401,7 +401,7 @@ function Contact() {
                   email
                 </div>
                 <div className="mt-1 font-display font-bold text-[oklch(0.75_0.22_295)]">
-                  hello@tadeas.dev
+                  zakazky-tadeas@seznam.cz
                 </div>
               </a>
             </div>
